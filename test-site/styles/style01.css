@@ -17,6 +17,7 @@ p {
     font-size: 24px;
     /* use the font-face of google-font.com */
     font-family: 'Kirang Haerang', cursive;
+    -webkit-user-select: none;
     user-select: none;
 }
 
@@ -31,5 +32,16 @@ h1 {
 img {
     display: block;
     margin: 0 auto;
+    width: 400px;
+}
+
+attention {
+    background-color: #e45959;
+    border-radius: 4px;
+    margin: 20px;
+    border-left: 2px solid rgb(192, 61, 79);
+    padding: 30px 20px;
+    box-sizing: border-box;
+    display: block;
 }
 
