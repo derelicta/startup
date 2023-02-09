@@ -21,3 +21,4 @@ This is a simple project of startup.
 一个航天发射中心旧址，自发聚集在这里的一群人。涉及到权力之间的概念？
 
 what the hell?
+"无法建立连接的原因似乎是VScode的git extension 占用了连接？" 
