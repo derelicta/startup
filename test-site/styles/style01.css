@@ -12,11 +12,16 @@ body {
     border: 5px solid black;
 }
 
+@font-face {
+    font-family: "Mondwest";
+    src: url("../assets/fonts/Mondwest-Regular.woff2");
+}
+
 p {
     /* px standed pixel 像素 */
     font-size: 24px;
     /* use the font-face of google-font.com */
-    font-family: 'Kirang Haerang', cursive;
+    font-family: Mondwest, cursive;
     -webkit-user-select: none;
     user-select: none;
 }
@@ -44,4 +49,3 @@ attention {
     box-sizing: border-box;
     display: block;
 }
-
